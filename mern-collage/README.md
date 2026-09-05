@@ -70,7 +70,7 @@ This makes the update process faster and avoids unnecessary file transfers.
 ## ❤️ Favorite Images
 
 <p align="center">
-  <img src="./screenshot/favorite.png" alt="Favorite Images" width="900">
+  <img src="./screenshot/favourite.png" alt="Favorite Images" width="900">
 </p>
 
 Users can mark important images as favorites and easily access their preferred collection.
