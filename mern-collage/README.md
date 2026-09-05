@@ -1,7 +1,7 @@
 # 📸 Mern Collage
 
 <p align="center">
-  <img src="./screenshots/allphotos.png" alt="Main Collage - All Photos" width="900">
+  <img src="./screenshot/allphotos.png" alt="Main Collage - All Photos" width="900">
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ The project combines a modern React frontend with a Node.js and Express backend,
 ## 📚 All Photos
 
 <p align="center">
-  <img src="./screenshots/allphotos.png" alt="All Photos" width="900">
+  <img src="./screenshot/allphotos.png" alt="All Photos" width="900">
 </p>
 
 The main gallery provides a clean visual overview of all uploaded images.
@@ -48,7 +48,7 @@ The main gallery provides a clean visual overview of all uploaded images.
 ## 📤 Upload
 
 <p align="center">
-  <img src="./screenshots/upload.png" alt="Upload Image" width="900">
+  <img src="./screenshot/upload.png" alt="Upload Image" width="900">
 </p>
 
 Users can select an image and provide the required metadata before uploading it.
@@ -60,7 +60,7 @@ Select Image → Add Metadata → Upload → Store → Display in Gallery.
 ## ✏️ Edit Image
 
 <p align="center">
-  <img src="./screenshots/edit.png" alt="Edit Image" width="900">
+  <img src="./screenshot/edit.png" alt="Edit Image" width="900">
 </p>
 
 The edit functionality allows users to update image metadata without uploading the image again.
@@ -70,7 +70,7 @@ This makes the update process faster and avoids unnecessary file transfers.
 ## ❤️ Favorite Images
 
 <p align="center">
-  <img src="./screenshots/favorite.png" alt="Favorite Images" width="900">
+  <img src="./screenshot/favorite.png" alt="Favorite Images" width="900">
 </p>
 
 Users can mark important images as favorites and easily access their preferred collection.
@@ -78,7 +78,7 @@ Users can mark important images as favorites and easily access their preferred c
 ## 🕒 Recently Added
 
 <p align="center">
-  <img src="./screenshots/recently.png" alt="Recently Added" width="900">
+  <img src="./screenshot/recently.png" alt="Recently Added" width="900">
 </p>
 
 The recently added section helps users quickly find the latest uploaded images.
@@ -86,7 +86,7 @@ The recently added section helps users quickly find the latest uploaded images.
 ## ⚙️ Settings
 
 <p align="center">
-  <img src="./screenshots/setting.png" alt="Settings" width="900">
+  <img src="./screenshot/setting.png" alt="Settings" width="900">
 </p>
 
 The settings section provides a dedicated area for application-related options.
@@ -94,7 +94,7 @@ The settings section provides a dedicated area for application-related options.
 ## 🗑️ Delete Image
 
 <p align="center">
-  <img src="./screenshots/delete.png" alt="Delete Image" width="900">
+  <img src="./screenshot/delete.png" alt="Delete Image" width="900">
 </p>
 
 Users can remove images they no longer need through the delete functionality.
